@@ -154,7 +154,6 @@ private:
 #endif
 private:
     INTERNAL_INFO m_internalInfo;
-
 };
 
 #endif  // XWINPDB_H
